@@ -1,4 +1,4 @@
-# H1Terminal commands 
+# Terminal commands 
 **ls**
  is the list command of what’s inside the current directory
 **ls - l**
